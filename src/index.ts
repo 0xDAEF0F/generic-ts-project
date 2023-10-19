@@ -1,5 +1,4 @@
-import { unwrap, unwrapOr, map } from './primitives'
-import { unsafeDivision, safeDivision } from './functions'
+import { unwrap, unwrapOr, map, unsafeDivision, safeDivision } from './primitives'
 import assert from 'assert'
 
 async function main() {
