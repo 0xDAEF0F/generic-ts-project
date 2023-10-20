@@ -44,7 +44,6 @@ async function main() {
 
     // EJEMPLO D
     //
-    // Map will transform the `Some` value if there is one,
     // `map` transformara el valor `Some` si es que lo existe,
     // de lo contrario seguira siendo `None`. Podemos `unwrapear` en
     // este ejemplo ya que sabemos que *no* es `None`.
